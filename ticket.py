@@ -7,6 +7,7 @@ from enum import Enum
 from typing import Optional
 from datetime import datetime
 
+priority = "Medium"
 
 class TicketState(Enum):
     """Enumeration of valid ticket states."""
